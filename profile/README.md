@@ -61,7 +61,7 @@ products and services**, which fund and enable the impact work.
 
 ### Core areas:
 - **In-house products**
-  - Scientific and technical platforms (e.g. *Praxis*)
+  - Scientific and technical platforms (e.g. *[Praxis](https://github.com/Kavana-Labs/praxis)*)
   - Education technology (EdTech) tools and infrastructure
 - **Technology solutions for businesses**
   - Software engineering and systems development
