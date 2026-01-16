@@ -11,7 +11,7 @@
 The for-profit arm exists to **financially sustain and scale the mission** of
 the impact arm over the long term.
 
-**Website:** https://kanvalabs.studio  
+**Website:** https://kavanalabs.studio  
 **Base:** Ghana  
 **Status:** Early-stage / Pre-revenue  
 
@@ -96,4 +96,4 @@ technologists aligned with our mission and values.
 
 ## Contact
 
-📧 hello@kanvalabs.studio
+📧 kavanahlabs@gmail.com
